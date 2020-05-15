@@ -20,7 +20,7 @@ int main() {
         B = b*b;
         C = c*c ;
         
-        
+       
         
         if ((A+B == C) || (B+C == A) || (C+A == B)){
             cout << "right" << endl;
