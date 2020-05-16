@@ -23,5 +23,4 @@ int main(int argc, const char * argv[]) {
         else if(a<b){cout << "<" << endl ;}
         else if (a>b){cout << ">" << endl;}
     }
-
 }
